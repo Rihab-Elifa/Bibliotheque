@@ -1,0 +1,73 @@
+
+
+header{
+    padding:0px;
+    margin:0px;
+    
+}
+header{
+    background:url('./de4627821a2e7c8af4200b02474c7f1c.jpg');
+    width:100%;
+    height:90vh;
+    padding-top: 20vh;
+    padding-left: 30%;
+    background-size: cover;
+
+}
+.inscrir{
+    position: absolute;
+    color:aliceblue;
+    font-size: 20px;
+    padding:10%;
+    background:rgba(0, 0, 0, 0.575);
+}
+.inscrir h1{
+    font-size:25px;
+}
+section{
+    margin-top:5vh;
+    margin-left: 2%;
+    position: relative;
+}
+
+.card{
+    float: left;
+    margin-left: 1%;
+}
+
+.card img{
+
+
+}
+.icon{
+    font-size: 30px;
+}
+.elm1{
+    width:30%;
+    float:left;
+    padding:2%;
+    margin:5%;
+    color:white;
+}
+
+footer{
+    
+    width:100%;
+clear: both;
+
+
+
+}
+.auteur{
+    text-align: center;
+    color:white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.card-img-top{
+
+max-height: 100px;
+
+
+}

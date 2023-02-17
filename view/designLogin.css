@@ -1,0 +1,22 @@
+section{
+    margin-top: 20vh;
+    width:100%;
+    height: 80vh;
+    padding: 3%;
+}
+
+.form-control{
+    position: relative;
+    width:40%;
+
+}
+h1{
+
+ margin-left: 10%;
+}
+.retour{
+font-size: 50px;
+margin-left: 5%;
+margin-top: 20px;
+
+}
